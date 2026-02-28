@@ -1,0 +1,15 @@
+# Python stuff
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+env/
+
+# Secret files
+.env
+
+# Editor stuff
+*.swp
