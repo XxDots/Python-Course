@@ -42,4 +42,3 @@ print(mysplit("To be or not to be,this is a question"))
 print(mysplit("   "))
 print(mysplit(" abc "))
 print(mysplit(""))
-
